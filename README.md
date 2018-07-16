@@ -1,11 +1,6 @@
-# PHPExcel - DEPRECATED
+# PHPExcel
 
-PHPExcel last version, 1.8.1, was released in 2015. The project is no longer maintained and 
-should not be used anymore.
-
-All **users should migrate** to its direct successor [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet), or another alternative.
-
-In a few months, the GitHub project will be marked as archived, so everything will be read-only.
+This is a fork of PHPExcel without the deprecated warnings. Most users are still using older PHP versions (>=5.4) and hence we need this package as is without warnings as there is no other alternatives for PHP versions 5.4 and 5.5
 
 ## License
 
