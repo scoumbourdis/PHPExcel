@@ -20,7 +20,11 @@
         },
         {
             "name": "Erik Tilt"
-        }
+        },
+        {
+            "name": "John Skoumbourdis",
+            "homepage": "https://www.web-and-development.com/"
+        }        
     ],
     "require": {
         "php": "^5.4|^7.0",
