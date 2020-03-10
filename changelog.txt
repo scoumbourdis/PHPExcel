@@ -23,6 +23,12 @@
 **************************************************************************************
 
 
+1.9.1
+- Fixing issue with PHP 7.4 "Deprecated: Array and string offset access syntax with curly braces is deprecated"
+
+1.9.0
+- First version of scoumbourdis repo so it can also support PHP version 5.6
+
 Planned for 1.8.2
 - Bugfix:   (MBaker)                            - Fix to getCell() method when cell reference includes a worksheet reference
 - Bugfix:   (ncrypthic)       Work Item GH-570  - Ignore inlineStr type if formula element exists
