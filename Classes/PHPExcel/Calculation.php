@@ -95,6 +95,14 @@ class PHPExcel_Calculation
     private $workbook;
 
     /**
+     * Instance of the debug log for this calculation engine
+     *
+     * @access    private
+     * @var PHPExcel_CalcEngine_Logger
+     */
+    private $_debugLog;
+    
+    /**
      * List of instances of the calculation engine that we've instantiated for individual workbooks
      *
      * @access    private
